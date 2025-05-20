@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\QuanLyLIAM\\QuanLyLIAM\\frmQuanLyLIAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E59607-CCD9-48BD-A6DD-DC6BB5DDC9E0}|frmQuanLyLIAM.csproj|d:\\visualstudio\\quanlyliam\\quanlyliam\\frmquanlyliam\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24E59607-CCD9-48BD-A6DD-DC6BB5DDC9E0}|frmQuanLyLIAM.csproj|solutionrelative:frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E59607-CCD9-48BD-A6DD-DC6BB5DDC9E0}|frmQuanLyLIAM.csproj|d:\\visualstudio\\quanlyliam\\quanlyliam\\frmquanlyliam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E59607-CCD9-48BD-A6DD-DC6BB5DDC9E0}|frmQuanLyLIAM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\QuanLyLIAM\\QuanLyLIAM\\frmQuanLyLIAM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VisualStudio\\QuanLyLIAM\\QuanLyLIAM\\frmQuanLyLIAM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:29:11.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\VisualStudio\\QuanLyLIAM\\QuanLyLIAM\\frmQuanLyLIAM\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "frmDangNhap.cs",
+              "ToolTip": "D:\\VisualStudio\\QuanLyLIAM\\QuanLyLIAM\\frmQuanLyLIAM\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:24:58.899Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
